@@ -7,8 +7,8 @@ function Container({title, subtitle}){
 		<div>
 		<h4 className='titulo'>{title}</h4> 
 		<p className='descricao'>{subtitle}</p>
-		 </div>
-         </button>
+		</div>
+        </button>
 	);
 }
 
